@@ -14,7 +14,7 @@ public class Reversemethod {
 }
 
 
-// using char array to reverse a string is easy than creating a new string and storing.
+
 class Reversestringass{
     public static void main(String[] args) {
         String S="Java is a programming language";
