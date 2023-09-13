@@ -9,7 +9,7 @@ public class Comparetomethod {
 
             int result;
 
-            // comparing str1 with str2
+            
             result = str1.compareTo(str2);
 
             System.out.println(result);
